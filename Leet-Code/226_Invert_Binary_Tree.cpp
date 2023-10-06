@@ -25,6 +25,7 @@ public:
             // cout << root->left->val << "   " << root->right->val << endl;
         }
         
+        // swap(root->left, root->right);
         
         invertTree(root->left);
         invertTree(root->right);
