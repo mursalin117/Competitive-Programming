@@ -5,9 +5,4 @@
 3. P1672 Richest Customer Wealth [[cpp]](https://github.com/mursalin117/Competitive-Programming/blob/master/Leet-Code/1672_Richest_Customer_Wealth.cpp) [[py3]](https://github.com/mursalin117/Competitive-Programming/blob/master/Leet-Code/1672_Richest_Customer_Wealth.py)
 4. P2235 Add Two Integers [[cpp]](https://github.com/mursalin117/Competitive-Programming/blob/master/Leet-Code/2235_Add_Two_Integers.cpp) [[py3]](https://github.com/mursalin117/Competitive-Programming/blob/master/Leet-Code/2235_Add_Two_Integers.py)
 5. P2236 Root Equals Sum of Children [[cpp]](https://github.com/mursalin117/Competitive-Programming/blob/master/Leet-Code/2236_Root_Equals_Sum_of_Children.cpp) [[py3]](https://github.com/mursalin117/Competitive-Programming/blob/master/Leet-Code/2236_Root_Equals_Sum_of_Children.py)
-
-
-
-
-
-5. P1234 Something [[cpp]]() [[py3]]()
+6. P412 Fizz Buzz [[cpp]](https://github.com/mursalin117/Competitive-Programming/blob/master/Leet-Code/412_Fizz_Buzz.cpp) [[py3]](https://github.com/mursalin117/Competitive-Programming/blob/master/Leet-Code/412_Fizz_Buzz.py)
